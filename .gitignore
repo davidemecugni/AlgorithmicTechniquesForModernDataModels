@@ -49,3 +49,6 @@ cmake_install.cmake
 Makefile
 *.cmake
 !CMakeLists.txt
+
+# Codeql folders
+_codeql*/
