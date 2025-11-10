@@ -1,0 +1,6 @@
+add_subdirectory(majority)
+add_subdirectory(Mistra-Gries)
+add_subdirectory(Approx)
+add_subdirectory(ApproxCounting)
+add_subdirectory(FrequencyEstimation)
+add_subdirectory(CountMin)
